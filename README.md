@@ -1,2 +1,9 @@
-# game-producer-playbook
-A playbook of how I help people make games.
+# The Lean Game Producer’s Playbook
+
+The smarter, faster, more interesting way to make games that matter.
+
+
+
+
+
+
